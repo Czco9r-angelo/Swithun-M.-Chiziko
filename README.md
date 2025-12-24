@@ -53,8 +53,8 @@ S&P 500 and VIX correlation analysis using advanced econometric models
 - **Bachelor of Commerce (Economics & Finance)** - Curtin University (2014-2017)
 
 ## 📫 How to Reach Me
-- 📧 Email: chizikoswith@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/swithun-chiziko-94a21869](https://linkedin.com/in/swithun-chiziko-94a21869)
+- 📧 Email:
+- 💼 LinkedIn:
 - 📍 Location: 
 - 📱 WhatsApp: 
 
